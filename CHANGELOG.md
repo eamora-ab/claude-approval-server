@@ -1,5 +1,18 @@
 # Changelog
 
+## [1.4.0](https://github.com/wagenet/claude-approval-server/compare/v1.3.0...v1.4.0) (2026-03-27)
+
+
+### Features
+
+* add UI_PORT env var for configurable dev server ports ([4582e4e](https://github.com/wagenet/claude-approval-server/commit/4582e4e76ad71cf6bc2845ef479f7c41351437d5))
+* add UI_PORT env var for configurable dev server ports ([145972c](https://github.com/wagenet/claude-approval-server/commit/145972ce05cc223cd604a4ee47c0cf2454844e79))
+
+
+### Bug Fixes
+
+* scope to UI_PORT only, remove PORT from public docs ([35aca91](https://github.com/wagenet/claude-approval-server/commit/35aca915406ba5edf6212232e025fa8bab77708e))
+
 ## [1.3.0](https://github.com/wagenet/claude-approval-server/compare/v1.2.0...v1.3.0) (2026-03-27)
 
 
